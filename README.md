@@ -1,6 +1,6 @@
 # foodie_map_flutter
 
-A sample project that shows the user location and nearby restaurants on the Google Map. It integrates several Google Maps API including: 
+A sample project that marks the user location and nearby restaurants on the Google Map. It integrates several Google Maps API including: 
 1. [**Google Maps for Flutter**](https://pub.dev/packages/google_maps_flutter)
 2. [**Flutter Geolocator Plugin**](https://pub.dev/packages/geolocator) 
 3. [**Google Maps Web Services**](https://pub.dev/packages/google_maps_webservice) 
