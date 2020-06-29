@@ -9,3 +9,7 @@ A sample project that marks the user location and nearby restaurants on the Goog
 
 1. Make sure you have set up your Flutter Environment. 
 2. Get an API key for the above-mentioned API. 
+
+## THRIVE Article Link
+
+The full tutorial of this project can be found at https://www.topcoder.com/thrive/articles/Flutter%20-%20A%20Foodie%20Map%20Built%20Using%20Google%20Maps%20Web%20Services .
