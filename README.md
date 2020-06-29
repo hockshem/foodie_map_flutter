@@ -12,4 +12,5 @@ A sample project that marks the user location and nearby restaurants on the Goog
 
 ## THRIVE Article Link
 
-The full tutorial of this project can be found at https://www.topcoder.com/thrive/articles/Flutter%20-%20A%20Foodie%20Map%20Built%20Using%20Google%20Maps%20Web%20Services .
+The full tutorial of this project can be found at:  
+https://www.topcoder.com/thrive/articles/Flutter%20-%20A%20Foodie%20Map%20Built%20Using%20Google%20Maps%20Web%20Services
